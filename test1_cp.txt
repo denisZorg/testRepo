@@ -1,0 +1,9 @@
+test1.txt BEGIN
+
+123456789 zxcv bnbnbn nmnnb
+iuiu iui iu tftfjh kjkjlkj lk
+
+iouyuyt btfut rdtetyr 
+987654321
+
+test1.txt END
